@@ -1,0 +1,2 @@
+# opspalagan
+admin sekolah
